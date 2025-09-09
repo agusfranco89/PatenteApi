@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de modelo pesado (opcional, si no querés subir best.pt)
+best.pt
